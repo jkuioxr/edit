@@ -520,8 +520,8 @@
 * [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game / [GitHub](https://github.com/maxwellito/breaklock)
 * [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
 * [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
-
-***
+* [QUINT](https://plus2game.com/wordle),and [sudoku] (https://plus2game.com/sudoku) - PLUS2GAME
+  **
 
 ## ▷ Rubiks Cube
 
